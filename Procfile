@@ -1,1 +1,1 @@
-web: python fishmarket-flask:app
+web: python fishmarket-flask.py
