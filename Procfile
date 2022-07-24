@@ -1,1 +1,1 @@
-web: gunicorn fishmarket-flask:app
+web: python fishmarket-flask:app
